@@ -1,0 +1,16 @@
+# Short-lived task notes and handovers: never committed
+scope/
+
+# Python / Jupyter clutter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Data and figure outputs stay out of git (write them to /scratch or /g/data instead)
+*.nc
+*.zarr/
+*.png
+*.pdf
+
+# Local Claude Code settings
+.claude/settings.local.json
