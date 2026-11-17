@@ -34,9 +34,9 @@ Task-by-task detail belongs in `scope/TASK-SCOPE-XX.md`, not here.
 
 ## Current status
 - Working: repo scaffold only.
-- In progress: issue #220 posted (paper repo); next is the data inventory.
-- Open questions / known issues: see scope task file.
+- In progress: overall issue #220 posted (paper repo); with detailed work in om3-enso repo #1
 - Last updated: 2026-11-17
 
-## Current task
+## Current tasks
 @scope/TASK-SCOPE-ENSO.md
+@scope/TASK-SCOPE-I1.md
